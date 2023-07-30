@@ -1,0 +1,7 @@
+#folder
+/game
+
+#not puplic
+*.png
+*.txt
+

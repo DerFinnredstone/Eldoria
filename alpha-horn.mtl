@@ -1,0 +1,8 @@
+# Made in Blockbench 4.7.4
+newmtl m_82be5a2f-0515-a647-175a-4d7a006c2c9b
+map_Kd construct-horn-main-body-alpha.png 
+newmtl m_45f4fa9a-8dd8-1b83-68b5-e8fc5129b5a1
+map_Kd construct-bottom-alpha.png 
+newmtl m_586d21d1-0e2f-6581-6b92-1c3df63a135a
+map_Kd construct-blade.png 
+newmtl none
